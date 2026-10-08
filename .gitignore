@@ -1,0 +1,18 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Dataset ảnh (không đưa lên repo)
+RiceDataset/
+RiceDataset_Final/
+RiceDataset_Split/
+Duplicated_Trash/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/

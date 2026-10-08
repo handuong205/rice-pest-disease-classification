@@ -1,0 +1,12 @@
+# PyTorch: nên cài theo đúng phiên bản CUDA của máy, xem https://pytorch.org/get-started/locally/
+torch
+torchvision
+
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+pillow
+imagehash
+jupyter
